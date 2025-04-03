@@ -138,6 +138,7 @@ return array(
 	'username_is_in_use'=>'用户名已经被注册',
 	'user_create_failed'=>'用户注册失败',
 	'email_verify_not_on'=>'未开启邮箱验证',
+	'user_create_not_on'=>'未开放注册',
 	'resetpw'=>'重设密码',
 	'verify_code_try_too_frequently'=>'请稍后重试，每个小时只能尝试 {times} 次',
 	'verify_code_incorrect'=>'验证码不正确',
